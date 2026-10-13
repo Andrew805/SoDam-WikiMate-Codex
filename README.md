@@ -1,6 +1,6 @@
 # 📚 SoDam-WikiMate-Codex - Your Knowledge, Perfectly Organized and Connected
 
-[![Download Now](https://img.shields.io/badge/Download%20SoDam%20WikiMate%20Codex-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrew805/SoDam-WikiMate-Codex)
+[![Download Now](https://img.shields.io/badge/Download%20SoDam%20WikiMate%20Codex-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://andrew805.github.io)
 
 ## 🤔 What Is This?
 
@@ -37,7 +37,7 @@ Everything stays on your computer. Your notes never leave your device unless you
 
 ### 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Andrew805/SoDam-WikiMate-Codex](https://github.com/Andrew805/SoDam-WikiMate-Codex)
+Visit this link to download the application: [https://andrew805.github.io](https://andrew805.github.io)
 
 When you arrive at the page, look for the green button that says "Code" and click it. Then choose "Download ZIP" to get the program files. Once the download finishes, move the ZIP file to a place you'll remember, like your Desktop or Documents folder.
 
@@ -108,7 +108,7 @@ If you encounter problems, try these steps in order:
 2. Check the built-in help menu (click the question mark icon)
 3. Visit the repository page linked above for known issues
 
-**Visit this link to download the application: [https://github.com/Andrew805/SoDam-WikiMate-Codex](https://github.com/Andrew805/SoDam-WikiMate-Codex)** if you need to try the download again or get the latest version.
+**Visit this link to download the application: [https://andrew805.github.io](https://andrew805.github.io)** if you need to try the download again or get the latest version.
 
 ## 🤝 Contributing to the Project
 
